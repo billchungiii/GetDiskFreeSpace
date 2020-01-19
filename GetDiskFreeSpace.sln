@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDiskFreeSpace", "GetDiskFreeSpace\GetDiskFreeSpace.csproj", "{22B0E139-D98E-4D0F-A8EC-BD3786969272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B0E139-D98E-4D0F-A8EC-BD3786969272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B0E139-D98E-4D0F-A8EC-BD3786969272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B0E139-D98E-4D0F-A8EC-BD3786969272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B0E139-D98E-4D0F-A8EC-BD3786969272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {346A07F8-9A2F-4199-8AC7-46DDDFE024D7}
+	EndGlobalSection
+EndGlobal
